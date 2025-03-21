@@ -7,7 +7,7 @@ changeUsername(newName) {
   this.username = newName; 
 },
 updatePlayTime(hours) {
-this.playtime += hours;
+this.playTime += hours;
 },
 
 getInfo() {
